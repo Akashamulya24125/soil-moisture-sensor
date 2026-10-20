@@ -1,0 +1,63 @@
+** Drc report for Soil_Sensor_v1.kicad_pcb **
+** Created on 2026-09-05T14:45:16 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 15 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(129.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(133.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(125.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(123.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(131.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(127.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(121.0000 mm, 85.0000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(119.0000 mm, 136.5000 mm): Track [Net-(D1-A)] on F.Cu, length 51.5000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(120.0000 mm, 86.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(132.0000 mm, 138.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(130.0000 mm, 138.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(126.0000 mm, 138.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(122.0000 mm, 138.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(128.0000 mm, 138.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(124.0000 mm, 86.0000 mm): Track [GND] on F.Cu, length 52.0000 mm
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
